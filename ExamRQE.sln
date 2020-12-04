@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamRQE", "ExamRQE\ExamRQE.csproj", "{CFC13408-EBB6-4B40-9950-C8886614B58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC13408-EBB6-4B40-9950-C8886614B58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC13408-EBB6-4B40-9950-C8886614B58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC13408-EBB6-4B40-9950-C8886614B58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC13408-EBB6-4B40-9950-C8886614B58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {551211B9-CAC4-4818-AF15-4247A1D68C15}
+	EndGlobalSection
+EndGlobal
